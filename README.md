@@ -1,6 +1,5 @@
 # Selector JWT Auth
-
-🔍 Breve descripción (1-2 líneas). ¿Qué problema resuelve?  
+Este plugin para WordPress permite restringir el acceso a páginas mediante tokens JWT personalizados. La versión gratuita permite seleccionar páginas protegidas y configurar un algoritmo HMAC global. La versión Pro añade soporte para firmas RSA y cifrado individual por página. Ideal para controlar el acceso seguro a contenido mediante URLs firmadas.
 
 ## Instalación  
 1. Ve a **Plugins > Añadir nuevo** en WordPress.
